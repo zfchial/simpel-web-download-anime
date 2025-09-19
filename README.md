@@ -39,10 +39,10 @@ Aplikasi web PHP/MySQL untuk menyimpan dan mengelola koleksi anime pribadi. Proy
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/namamu/penyimpanan-anime.git
-   cd penyimpanan-anime
+   git https://github.com/zfchial/simpel-web-download-anime.git
+   cd simpel-web-download-anime
    ```
-2. Pindahkan folder `storage/` ke direktori web server (`htdocs` atau `/opt/lampp/htdocs`).
+2. Pindahkan folder `storage/` ke direktori web server (`htdocs` atau `www`).
 3. Buat database `anime_storage`:
    ```sql
    CREATE DATABASE anime_storage CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
