@@ -1,4 +1,3 @@
--- SQL bootstrap untuk modul Penyimpanan Anime (mandiri dari aplikasi "komik")
 -- Jalankan file ini di phpMyAdmin atau MySQL CLI agar database khusus penyimpanan siap.
 
 CREATE DATABASE IF NOT EXISTS `anime_storage` CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
