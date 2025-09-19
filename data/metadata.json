@@ -1,0 +1,29 @@
+[
+  {
+    "title": "One Piece",
+    "description": "Petualangan Luffy dan kru Topi Jerami mencari harta karun legendaris One Piece.",
+    "genres": "Adventure, Action, Fantasy",
+    "rating": 8.7,
+    "episodes": 1000,
+    "year": 1999,
+    "status": "Ongoing"
+  },
+  {
+    "title": "Attack on Titan",
+    "description": "Umat manusia bertahan di balik tembok dari ancaman Titan yang misterius.",
+    "genres": "Action, Dark Fantasy",
+    "rating": 9.1,
+    "episodes": 87,
+    "year": 2013,
+    "status": "Completed"
+  },
+  {
+    "title": "Spy x Family",
+    "description": "Seorang mata-mata, pembunuh, dan telepatis pura-pura menjadi keluarga.",
+    "genres": "Comedy, Slice of Life, Action",
+    "rating": 8.5,
+    "episodes": 25,
+    "year": 2022,
+    "status": "Ongoing"
+  }
+]
