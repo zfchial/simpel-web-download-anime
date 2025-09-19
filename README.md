@@ -37,4 +37,4 @@ Aplikasi web sederhana berbasis PHP/MySQL untuk mengelola koleksi anime pribadi.
 1. Clone repo:
    ```bash
    git clone https://github.com/zfchial/simpel-web-download-anime.git
-   cd web-penyimpanan-anime
+   cd web-download-anime
